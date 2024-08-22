@@ -5,3 +5,5 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - pystac
+  - pystac-client
